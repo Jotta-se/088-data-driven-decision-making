@@ -1,0 +1,5 @@
+﻿Empresa;Papel;Custo_Marginal;Q_Cournot;Lucro_Cournot;Q_Stackelberg;Lucro_Stackelberg;Vantagem_Lider_%
+AAPL;Líder;36,6704;26,2338;-916,7685;26,8776;361,2019;-139,4
+MSFT;Seguidor;20,0;40,0;-731,0308;13,2806;399,8678;-154,7
+GOOGL;Seguidor;34,1917;27,4731;-891,9824;9,7327;154,9188;-117,37
+AMZN;Seguidor;80,0;4,5689;-357,6375;0,0;-0,0;-100,0

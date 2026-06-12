@@ -1,0 +1,5 @@
+﻿Ticker;Retorno_Anual;Volatilidade;Sharpe;Nash_Equilibrio;Nash_Empresa_A;Nash_Empresa_B;Nash_Payoff_A;Nash_Payoff_B
+AAPL;0,177568;0,277975;0,638791;Não;MSFT;GOOGL;0,076575;0,04366
+MSFT;0,23077;0,278349;0,829066;Sim;GOOGL;MSFT;0,04366;0,076575
+GOOGL;0,211724;0,317389;0,667082;Sim;;;;
+AMZN;0,053934;0,373952;0,144226;Não;;;;

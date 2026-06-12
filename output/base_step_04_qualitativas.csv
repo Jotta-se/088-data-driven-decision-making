@@ -1,0 +1,7 @@
+﻿Base;Variavel;N_Categorias;Moda;Freq_Moda_%;Categorias
+Yahoo Finance;Data;2264;2015-01-02;0,0;2015-01-02, 2015-01-05, 2015-01-06, 2015-01-07, 2015-01-08, 2015-01-09, 2015-01-12, 2015-01-13  ... (+2256)
+Yahoo Finance;Ticker;16;AAPL;6,2;AAPL, AMZN, BRK-B, EEM, EWJ, EWZ, GLD, GOOGL  ... (+8)
+World Bank API;ISO;33;ARG;3,0;ARG, BEL, BRA, CAN, CHE, CHL, CHN, COL  ... (+25)
+World Bank API;Pais;33;Argentina;3,0;Argentina, Belgium, Brazil, Canada, Chile, China, Colombia, Egypt, Arab Rep.  ... (+25)
+UCI Online Retail;InvoiceDate;23260;2011-10-31 14:41:00;0,2;2010-12-01 08:26:00, 2010-12-01 08:28:00, 2010-12-01 08:34:00, 2010-12-01 08:35:00, 2010-12-01 08:45:00, 2010-12-01 09:00:00, 2010-12-01 09:01:00, 2010-12-01 09:02:00  ... (+23252)
+UCI Online Retail;Country;38;United Kingdom;91,4;Australia, Austria, Bahrain, Belgium, Brazil, Canada, Channel Islands, Cyprus  ... (+30)

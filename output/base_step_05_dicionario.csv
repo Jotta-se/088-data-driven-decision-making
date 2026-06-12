@@ -1,0 +1,18 @@
+﻿Base;Variavel;Tipo;Dtype_pandas;Nulos_pct;Unicos;Exemplo
+Yahoo Finance;Data;Qualitativa;str;0,0;2264;2015-01-02
+Yahoo Finance;Ticker;Qualitativa;str;0,0;16;AAPL
+Yahoo Finance;Close;Quantitativa;float64;0,0;33950;24.19260597229004
+Yahoo Finance;Retorno_Diario;Quantitativa;float64;0,0;36007;-0.0281718712070497
+World Bank API;ISO;Qualitativa;str;0,0;33;ARG
+World Bank API;Pais;Qualitativa;str;0,0;33;Argentina
+World Bank API;Ano;Quantitativa;int64;0,0;23;2000
+World Bank API;Forca_Trabalho;Quantitativa;float64;0,0;759;16658086.0
+World Bank API;PIB_pc_USD;Quantitativa;float64;0,0;759;7637.01489203628
+UCI Online Retail;Invoice;Quantitativa;str;0,0;25900;536365
+UCI Online Retail;StockCode;Qualitativa;str;0,0;4070;85123A
+UCI Online Retail;Description;Qualitativa;str;0,3;4223;WHITE HANGING HEART T-...
+UCI Online Retail;Quantity;Quantitativa;int64;0,0;722;6
+UCI Online Retail;InvoiceDate;Qualitativa;str;0,0;23260;2010-12-01 08:26:00
+UCI Online Retail;Price;Quantitativa;float64;0,0;1630;2.55
+UCI Online Retail;Customer ID;Quantitativa;float64;24,9;4372;17850.0
+UCI Online Retail;Country;Qualitativa;str;0,0;38;United Kingdom
