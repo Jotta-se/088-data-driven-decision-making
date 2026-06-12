@@ -1,0 +1,20 @@
+[project]
+name = "000-math-models"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "nbformat>=5.10.4",
+    "numpy>=2.4.6",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.3",
+    "persim>=0.3.8",
+    "plotly>=6.8.0",
+    "requests>=2.34.2",
+    "ripser>=0.6.15",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
+    "yfinance>=1.4.1",
+]
